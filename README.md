@@ -15,10 +15,16 @@
   <h3 align="center">AI Resume Analyzer</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
+     Join the JSM family!
     </div>
 </div>
 
+## 📋 Table of Contents
+
+1. ✨ [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
 
 ## ✨ Introduction
 
